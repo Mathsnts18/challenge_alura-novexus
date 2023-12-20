@@ -1,4 +1,4 @@
-# [Novexus - Churn Rate](https://github.com/Mathsnts18/challenge_alura-novexus/blob/main/novexus_churn_rate.ipynb)
+# Novexus - Churn Rate
 
 "Você é a pessoa contratada como cientista de dados pela operadora de telecomunicações Novexus. Na reunião inicial com as pessoas responsáveis pela área de vendas da empresa, foi explicada a importância de reduzir a Taxa de Evasão de Clientes, também conhecida como Churn Rate.
 
